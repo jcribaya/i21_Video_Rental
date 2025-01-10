@@ -1,0 +1,51 @@
+{
+    "name": "MovieRental",
+    "settings": {
+        "cmd": {
+            "license": "commercial",
+            "cmdVersion": "7.8.0.59",
+            "frameworkVersion": "7.6.0"
+        },
+        "urlPrefixTemplate": "http://localhost:{port}/{path}",
+        "urlPrefix": "http://localhost:57593/",
+        "canvasControls": {
+            "viewportSize": {
+                "name": "Auto Expand",
+                "builtIn": true,
+                "height": null,
+                "width": null
+            }
+        },
+        "exportPath": "",
+        "spacesToIndent": 4,
+        "sdkPath": "",
+        "lineEnding": "CRLF",
+        "genTimestamps": false,
+        "cacheBust": false,
+        "buildShouldOverwriteIndex": true,
+        "generateArchitectVersion": true
+    },
+    "xdsVersion": "4.3.6",
+    "xdsBuild": 11,
+    "schemaVersion": 1,
+    "upgradeVersion": 310000000001,
+    "framework": "ext76",
+    "viewOrderMap": {
+        "view": [
+            "52c97178-65b5-4611-8ee5-9f127c5999a4",
+            "d4f49d8f-7513-4a4a-a809-8d97c2968853",
+            "54f18f2b-9b62-4fd4-859a-f26c83fe5dc9"
+        ],
+        "store": [],
+        "controller": [],
+        "model": [],
+        "resource": [
+            "73d4ad1c-7761-4253-bcac-5e169e37b43c",
+            "1ecc8282-7b58-49cc-8e8c-3f59341baf5d",
+            "19c6b785-8f3d-4623-a0f2-1c7ba030be8c"
+        ],
+        "app": [
+            "application"
+        ]
+    }
+}
